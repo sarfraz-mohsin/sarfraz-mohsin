@@ -7,7 +7,7 @@
 - 💬 Ask me about html css
 - 📫 How to reach me: sarfrazmohsin17@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a graduate   
+- ⚡ Fun fact: I do stand up comedy aswell.   
 
 
 
