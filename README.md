@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sarfraz Mohsin</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://drive.google.com/file/d/185Xqa2kKW_9IepsX91j9lh_ORW0854Wx/view?usp=sharing">
-<img src="https://drive.google.com/file/d/185Xqa2kKW_9IepsX91j9lh_ORW0854Wx/view?usp=sharing">
+<img align="center" alt="Coding" width="400" src="https://drive.google.com/file/d/185Xqa2kKW_9IepsX91j9lh_ORW0854Wx/view?usp=sharing">![Uploading cover image best.png…]()
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfraz-mohsin&label=Profile%20views&color=0e75b6&style=flat" alt="sarfraz-mohsin" /> </p>
 
