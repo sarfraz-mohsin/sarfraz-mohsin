@@ -30,4 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarfraz-mohsin&show_icons=true&locale=en" alt="sarfraz-mohsin" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfraz-mohsin&" alt="sarfraz-mohsin" /></p>
+
 
